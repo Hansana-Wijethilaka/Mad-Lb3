@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstMyapp</string>
+    <string name="button_send">Send</string>
+    <string name="name"></string>
+    <string name="edit_message">Enter a message</string>
+    <string name="Text">Hello World</string>
+</resources>
